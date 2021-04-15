@@ -14,4 +14,4 @@ Background and signal are mixed with 10:1 ratio.
 * 3-prong signal file: `events_anomalydetection_Z_XY_qqq.features.h5`
 
 ## Data visualization
-* [Explore dataset](https://github.com/uwepe-analysis/anomaly-detection/notebooks/explore_dataset.ipynb) compares the signal events with the background events
+* [Explore dataset](https://github.com/uwepe-analysis/anomaly-detection/blob/main/notebooks/explore_dataset.ipynb) compares the signal events with the background events
